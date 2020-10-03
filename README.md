@@ -8,7 +8,7 @@
 * Uses React to break the application framework into components, manage component state, and respond to user event
 * Because of deployment problem, filename was shortened to 2 in a clean new repository.  Previous commits are shown in https://github.com/margaretseiche/09222020-EmployeeRoster
 
-![Snapshot of Deployed Version](roster.JPG)
+![Snapshot of Deployed Version](/public/roster.JPG)
 
 ## Table of Contents
 * [Description](#Description)
