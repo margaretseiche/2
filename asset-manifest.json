@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/2/static/css/main.c57292c0.chunk.css",
+    "main.js": "/2/static/js/main.a4e29b10.chunk.js",
+    "main.js.map": "/2/static/js/main.a4e29b10.chunk.js.map",
+    "runtime-main.js": "/2/static/js/runtime-main.1bdfd1e0.js",
+    "runtime-main.js.map": "/2/static/js/runtime-main.1bdfd1e0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/2/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6d17e210.chunk.js": "/2/static/js/2.6d17e210.chunk.js",
+    "static/js/2.6d17e210.chunk.js.map": "/2/static/js/2.6d17e210.chunk.js.map",
+    "index.html": "/2/index.html",
+    "precache-manifest.8632b6da207cc5abd4053956fc6a1f3b.js": "/2/precache-manifest.8632b6da207cc5abd4053956fc6a1f3b.js",
+    "service-worker.js": "/2/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/2/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.c57292c0.chunk.css.map": "/2/static/css/main.c57292c0.chunk.css.map",
+    "static/js/2.6d17e210.chunk.js.LICENSE.txt": "/2/static/js/2.6d17e210.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/2/static/media/office_cropped.35dc7a6c.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdfd1e0.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6d17e210.chunk.js",
+    "static/css/main.c57292c0.chunk.css",
+    "static/js/main.a4e29b10.chunk.js"
+  ]
+}
