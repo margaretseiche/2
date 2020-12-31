@@ -11,7 +11,8 @@
 ![Snapshot of Deployed Version](/public/roster.JPG)
 
 ## Table of Contents
-* [Description](#Description)
+* [Description](#Description
+* [Technologies](#Technologies)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributors](#Contributors)
@@ -21,6 +22,9 @@
 
 ## Description
 A directory of employees (using the Random User API for simulated employees)
+
+## Technologies
+React, Randomuser API
 
 ## Installation
 npm i
