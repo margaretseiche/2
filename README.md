@@ -11,7 +11,7 @@
 ![Snapshot of Deployed Version](/public/roster.JPG)
 
 ## Table of Contents
-* [Description](#Description
+* [Description](#Description)
 * [Technologies](#Technologies)
 * [Installation](#Installation)
 * [Usage](#Usage)
